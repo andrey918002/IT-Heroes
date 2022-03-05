@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c1263e1-d09b-428f-8147-fa27646f4650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="25n4lOz8JBSMSbhYmoAF4e0W06b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\assets" />
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\components\Layouts" />
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\components" />
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\components\registration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\assets\img" />
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src" />
+      <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1263e1-d09b-428f-8147-fa27646f4650" name="Default Changelist" comment="" />
+      <created>1646149666571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646149666571</updated>
+      <workItem from="1646149667852" duration="670000" />
+      <workItem from="1646151382759" duration="1801000" />
+      <workItem from="1646153215272" duration="1680000" />
+      <workItem from="1646155038045" duration="1796000" />
+      <workItem from="1646156912941" duration="1789000" />
+      <workItem from="1646158732451" duration="1783000" />
+      <workItem from="1646160544789" duration="1782000" />
+      <workItem from="1646203144116" duration="1418000" />
+      <workItem from="1646211027139" duration="1707000" />
+      <workItem from="1646212840897" duration="1796000" />
+      <workItem from="1646215008484" duration="1782000" />
+      <workItem from="1646216827628" duration="831000" />
+      <workItem from="1646217683503" duration="1295000" />
+      <workItem from="1646219009949" duration="1745000" />
+      <workItem from="1646314860495" duration="479000" />
+      <workItem from="1646319446775" duration="1704000" />
+      <workItem from="1646406309742" duration="1782000" />
+      <workItem from="1646408121454" duration="1787000" />
+      <workItem from="1646409965792" duration="1787000" />
+      <workItem from="1646411785548" duration="208000" />
+      <workItem from="1646412014086" duration="1611000" />
+      <workItem from="1646479885856" duration="1783000" />
+      <workItem from="1646481705268" duration="1819000" />
+      <workItem from="1646483570711" duration="1779000" />
+      <workItem from="1646485386644" duration="1781000" />
+      <workItem from="1646487198841" duration="1785000" />
+      <workItem from="1646489016836" duration="1784000" />
+      <workItem from="1646490834537" duration="1784000" />
+      <workItem from="1646492648565" duration="1786000" />
+      <workItem from="1646494463109" duration="1790000" />
+      <workItem from="1646496285652" duration="1841000" />
+      <workItem from="1646498163826" duration="1785000" />
+      <workItem from="1646499978413" duration="1011000" />
+      <workItem from="1646501014775" duration="37000" />
+      <workItem from="1646501071182" duration="1817000" />
+      <workItem from="1646503003969" duration="1896000" />
+      <workItem from="1646504926799" duration="1795000" />
+      <workItem from="1646506752309" duration="963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1646501081244">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1646501081244" />
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom" timestamp="1646220721240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
+    <state width="1637" height="271" key="GridCell.Tab.0.center" timestamp="1646220721240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
+    <state width="1637" height="271" key="GridCell.Tab.0.left" timestamp="1646220721239">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721239" />
+    <state width="1637" height="271" key="GridCell.Tab.0.right" timestamp="1646220721240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1646504931127">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1646504931127" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1646409737936">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1646409737936" />
+  </component>
+</project>

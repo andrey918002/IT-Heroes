@@ -1,0 +1,4 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Hero:Hero_918002@heroes-cloud.lpffq.mongodb.net/heroes-cloud?retryWrites=true&w=majority"
+}
