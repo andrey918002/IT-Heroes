@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c1263e1-d09b-428f-8147-fa27646f4650" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/client/src/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -42,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="25n4lOz8JBSMSbhYmoAF4e0W06b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -72,7 +71,17 @@
       <recent name="C:\Users\user\Desktop\IT_Heroes_v2\client\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start (1)">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/client/package.json" />
       <command value="run" />
@@ -95,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start" />
       </list>
@@ -148,6 +158,7 @@
       <workItem from="1646503003969" duration="1896000" />
       <workItem from="1646504926799" duration="1795000" />
       <workItem from="1646506752309" duration="1588000" />
+      <workItem from="1646508487840" duration="519000" />
     </task>
     <servers />
   </component>
@@ -159,22 +170,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1646508129523" />
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom" timestamp="1646220721240">
+    <state width="1480" height="268" key="GridCell.Tab.0.bottom" timestamp="1646509027219">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
-    <state width="1637" height="271" key="GridCell.Tab.0.center" timestamp="1646220721240">
+    <state width="1480" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1646509027219" />
+    <state width="1480" height="268" key="GridCell.Tab.0.center" timestamp="1646509027219">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
-    <state width="1637" height="271" key="GridCell.Tab.0.left" timestamp="1646220721239">
+    <state width="1480" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1646509027219" />
+    <state width="1480" height="268" key="GridCell.Tab.0.left" timestamp="1646509027219">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721239" />
-    <state width="1637" height="271" key="GridCell.Tab.0.right" timestamp="1646220721240">
+    <state width="1480" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1646509027219" />
+    <state width="1480" height="268" key="GridCell.Tab.0.right" timestamp="1646509027219">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1646220721240" />
+    <state width="1480" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1646509027219" />
     <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1646504931127">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
